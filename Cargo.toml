@@ -1,0 +1,14 @@
+[package]
+name = "patren"
+version = "0.1.0"
+authors = ["Georg Gadinger <nilsding@nilsding.org>"]
+edition = "2018"
+license = "BSD-2-Clause"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.22"
+roxmltree = "0.7"
+simple-error = "0.2"
+zip = "0.5"
